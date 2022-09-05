@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "login": "djim",
+      "hash": "djimdjim"
+    },
+    {
+      "login": "djohn",
+      "password": "djohndjohn",
+      "id": 2
+    }
+  ],
+  "accommodations": [
+    {
+      "id": 1,
+      "name": "Super maison à dijon",
+      "slug": "super-maison-a-dijon",
+      "mainImage": "",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "ownerId": 1
+    }
+  ],
+  "ratings": [
+    {
+      "id": 1,
+      "accommodationId": 1,
+      "stars": 5,
+      "comment": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+    }
+  ]
+}
