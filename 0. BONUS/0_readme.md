@@ -1,6 +1,6 @@
 # BONUS
 
-## Linux
+## Linux
 
 - repeat an action every second
 
