@@ -1,1 +1,10 @@
-# CESI-Lille-Maintenace-et-Deploiement---RIL-21
+# Maintenance et Deploiement
+
+## Sujets abordés
+
+- [x] Linux et multipass
+- [ ] git
+- [ ] git-flow
+- [ ] docker
+- [ ] docker-compose
+- [ ] kubernetes
