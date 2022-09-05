@@ -16,4 +16,20 @@ See the Wiki for up-to-date [Installation Instructions](https://github.com/peter
 
 ```
 git flow init
+
+git flow feature start "name_of_the_feature" #to start a feature branch
+git flow bugfix start "name_of_the_bugfix" #to start a bugfix branch
+
+git flow hotfix start "version" #to start a hotfix branch like 1.0.0-1 (semantic versioning)
+
+git flow release start "version" #to start a release branch like 1.0.1 (semantic versioning)
+
+# next commands
+
+git flow feature publish
+
 ```
+
+## Semantic versioning 2.0
+
+Read the [documentation](https://semver.org/lang/fr/#gestion-s%C3%A9mantique-de-version-200)
