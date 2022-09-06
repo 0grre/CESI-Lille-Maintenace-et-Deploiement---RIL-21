@@ -8,5 +8,5 @@
 - [x] postman and json-server
 - [x] docker
 - [x] Dockerfile
-- [ ] docker-compose
+- [x] docker-compose
 - [ ] kubernetes
