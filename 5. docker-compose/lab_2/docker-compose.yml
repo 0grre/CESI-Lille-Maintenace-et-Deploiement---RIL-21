@@ -20,7 +20,5 @@ services:
       - ./www3:/usr/share/nginx/html/
   www4:
     build: www4
-    ports:
-      - "8004:80"
     volumes:
       - ./www4:/var/www/html
