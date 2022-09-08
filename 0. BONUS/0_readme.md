@@ -1,6 +1,6 @@
 # BONUS
 
-## Linux
+## Linux
 
 - repeat an action every second
 
@@ -25,3 +25,7 @@ Enable git plugins and aliases
 bash-it enable alias git
 bash-it enable plugin git
 ```
+
+- Improve your zsh
+
+https://ohmyz.sh/
